@@ -10,4 +10,4 @@ But it sometimes won't work with an external window so be warned.
 - **No Back Option:**  
   There's no "BACK" button. Once you go in you can't go back
 
-![Screenshot of the Hidden Browser Project](Screenshot 2025-03-29 193138.png)
+![Screenshot of the Hidden Browser Project](Screenshot2025-03-29193138.png)
